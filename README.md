@@ -26,3 +26,7 @@
                                                                                         █▀     ██
                                                 Resume Page           V.0.1 Pre Release  ██████▀  
 </pre>
+<h1>Hi!</h1>
+<p>Welcome to my open source Terminal based Resume Webpage. I hope you like it.</p>
+
+V 0.1PR
