@@ -24,7 +24,7 @@
      ██      ██    ▄█ ██    ▄██▀██▄    ▄ ██    ██    ██   ██   ██      ██▄   ▄████   ██ ██       
    ▄████▄  ▄████████▄████████▀   ▀█████▀████  ████  ████▄████▄████▄    █▀█████▀ ▀████▀██▄███████ 
                                                                                         █▀     ██
-                                                Resume Page           V.0.1 Pre Release  ██████▀  
+                                                Resume Page           V.0.2 Post Release  ██████▀  
 </pre>
 <h1>Hi!</h1>
 <p>Welcome to my open source Terminal based Resume Webpage. I hope you like it.</p>
